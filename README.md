@@ -12,7 +12,7 @@
   <a href="https://t.me/whyrodionov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&color=blue" alt="Telegram">
   </a>
-  <a href="https://www.instagram.com/akerumort/" target="_blank">
+  <a href="https://www.instagram.com/akerugen/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=%23E4405F" alt="Instagram">
   </a>
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=pinterest&logoColor=white&color=%23E60023" alt="Pinterest">
   </a> -->
   
-  <a href="https://taplink.cc/akerumort" target="_blank">
+  <a href="https://taplink.cc/akerugen" target="_blank">
     <img src="https://img.shields.io/badge/Taplink-%23000000.svg?style=flat&logo=link&logoColor=white&color=purple" alt="Taplink">
   </a>
   
