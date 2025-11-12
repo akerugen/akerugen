@@ -4,9 +4,9 @@
 
 <p> <b> Welcome to my page! </b> </br> I'm Ivan, <b> Java Backend developer </b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
 
-<!-- - 🔭 I’m currently working on [bookletter-website](https://github.com/akerumort/bookletter-website) -->
+<!-- - 🔭 I’m currently working on [bookletter-website](https://github.com/akerugen/bookletter-website) -->
 - 🌱 I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
-- 📫 How to reach me **akerumortworking@gmail.com**
+- 📫 How to reach me **akerumort404@gmail.com**
 
 <div align="left">
   <a href="https://t.me/whyrodionov" target="_blank">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=%23E4405F" alt="Instagram">
   </a>
 
- <!--  <a href="https://ru.pinterest.com/akerumort" target="_blank">
+ <!--  <a href="https://ru.pinterest.com/akerugen" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=pinterest&logoColor=white&color=%23E60023" alt="Pinterest">
   </a> -->
   
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Taplink-%23000000.svg?style=flat&logo=link&logoColor=white&color=purple" alt="Taplink">
   </a>
   
-  <img src="https://komarev.com/ghpvc/?username=akerumort&style=flat&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=akerugen&style=flat&color=blue" alt=""/>
 </div>
 
 <h2 align="left"> 
@@ -61,14 +61,14 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> My Top Open Source Projects: 
 </h2>
 <div>
-  <a href="https://github.com/akerumort/order-management-service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=order-management-service&show_description=true&theme=github_dark" alt="OrderManagementService"/>
-    <a href="https://github.com/akerumort/weather-forecast-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather-forecast-website&show_description=true&theme=github_dark" alt="weatherForecastWebsite"/>
-   <a href="https://github.com/akerumort/library-service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=library-service&show_description=true&theme=github_dark" alt="library-service"/>
-     <a href="https://github.com/akerumort/vacation-pay-calculator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=vacation-pay-calculator&show_description=true&theme=github_dark" alt="VacationPayCalculator"/>
+  <a href="https://github.com/akerugen/order-management-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerugen&repo=order-management-service&show_description=true&theme=github_dark" alt="OrderManagementService"/>
+    <a href="https://github.com/akerugen/weather-forecast-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerugen&repo=weather-forecast-website&show_description=true&theme=github_dark" alt="weatherForecastWebsite"/>
+   <a href="https://github.com/akerugen/library-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerugen&repo=library-service&show_description=true&theme=github_dark" alt="library-service"/>
+     <a href="https://github.com/akerugen/vacation-pay-calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerugen&repo=vacation-pay-calculator&show_description=true&theme=github_dark" alt="VacationPayCalculator"/>
 </div>
 
 <h2> 
@@ -78,10 +78,10 @@
 <table>
   <tr>
     <td width="40%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&layout=compact&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,372489" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerugen&layout=compact&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,372489" />
     </td>
     <td width="60%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akerumort&hide_title=true&hide_border=true&layout=compact&show_icons=true&count_private=true&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,372489" alt="Stats"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akerugen&hide_title=true&hide_border=true&layout=compact&show_icons=true&count_private=true&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,372489" alt="Stats"/>
     </td>
   </tr>
 </table>
