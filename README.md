@@ -5,7 +5,7 @@
 <p> <b> Welcome to my page! </b> </br> I'm Ivan, <b> Java Backend developer </b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
 
 <!-- - 🔭 I’m currently working on [bookletter-website](https://github.com/akerugen/bookletter-website) -->
-- 🌱 I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
+- 🌱 I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt, other books about System Architecture & Design
 - 📫 How to reach me **akerumort404@gmail.com** or below:
 
 <div align="left">
@@ -28,7 +28,7 @@
 </div>
 
 <h2 align="left"> 
-  <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3bjRtMHN3djlkaGUxNzdvNXh0dm5sdTlrd2NsNDNpZzZmNWY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3BBv1D4AFbJkY/giphy.gif" width="35"> Languages and Tools: 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Languages and Tools: 
 </h2>
 
 <h3> Languages: </h3>
@@ -57,7 +57,7 @@
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> </a>
 </p>
 
-<h2>
+<!-- <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> My Top Open Source Projects: 
 </h2>
 <div>
@@ -85,6 +85,6 @@
     </td>
   </tr>
 </table>
-</table>
+</table> -->
 
 
