@@ -33,9 +33,9 @@
 
 <h3> Languages: </h3>
 <p> 
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="40" height="40"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a> 
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"width="40" height="40"/>  </a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="40" height="40"/>  </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"width="40" height="40"/>  </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>  </a>
@@ -52,9 +52,12 @@
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" width="40" height="40"/> </a>
   <a> <img src="https://github.com/user-attachments/assets/24551f16-864a-4c87-abcd-963ac45fcce9" width="40" height="40"/>  </a>
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="40" height="40" /> </a>
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" /> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/> </a>  
   <a> <img src="https://github.com/keycloak/keycloak-misc/blob/main/logo/icon.svg" width="40" height="40"/> </a> 
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> </a>
+  
 </p>
 
 <!-- <h2>
